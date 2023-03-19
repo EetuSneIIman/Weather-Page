@@ -1,5 +1,5 @@
 # Weather Page
 
-IoT and Web Development
+IOT and Web development course
 
-Follow the assingment instructions in Dropbox Paper.
+link to weather page: https://eetusneiiman.github.io/Weather-Page/
